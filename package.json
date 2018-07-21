@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.0.0",
+    "connect": "^3.6.6",
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "ftp-client": "^0.2.2",
+    "serve-static": "^1.13.2",
+    "web": "0.0.2",
+    "websocket": "^1.0.26"
+  }
+}
